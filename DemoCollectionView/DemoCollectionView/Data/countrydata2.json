@@ -1,0 +1,1502 @@
+[
+ {
+            "Country": "Andorra",
+            "Country Code": "ad",
+            "Area in km2": "468",
+            "Population": "84,000"
+        },
+        {
+            "Country": "United Arab Emirates",
+            "Country Code": "ae",
+            "Area in km2": "82,880.00",
+            "Population": "4,975,593"
+        },
+        {
+            "Country": "Afghanistan",
+            "Country Code": "af",
+            "Area in km2": "647,500.00",
+            "Population": "29,121,286"
+        },
+        {
+            "Country": "Antigua and Barbuda",
+            "Country Code": "ag",
+            "Area in km2": "443",
+            "Population": "86,754"
+        },
+        {
+            "Country": "Anguilla",
+            "Country Code": "ai",
+            "Area in km2": "102",
+            "Population": "13,254"
+        },
+        {
+            "Country": "Albania",
+            "Country Code": "al",
+            "Area in km2": "28,748.00",
+            "Population": "2,986,952"
+        },
+        {
+            "Country": "Armenia",
+            "Country Code": "am",
+            "Area in km2": "29,800.00",
+            "Population": "2,968,000"
+        },
+        {
+            "Country": "Angola",
+            "Country Code": "ao",
+            "Area in km2": "1,246,700.00",
+            "Population": "13,068,161"
+        },
+        {
+            "Country": "Antarctica",
+            "Country Code": "aq",
+            "Area in km2": "14,000,000.00",
+            "Population": "0"
+        },
+        {
+            "Country": "Argentina",
+            "Country Code": "ar",
+            "Area in km2": "2,766,890.00",
+            "Population": "41,343,201"
+        },
+        {
+            "Country": "American Samoa",
+            "Country Code": "as",
+            "Area in km2": "199",
+            "Population": "57,881"
+        },
+        {
+            "Country": "Austria",
+            "Country Code": "at",
+            "Area in km2": "83,858.00",
+            "Population": "8,205,000"
+        },
+        {
+            "Country": "Australia",
+            "Country Code": "au",
+            "Area in km2": "7,686,850.00",
+            "Population": "21,515,754"
+        },
+        {
+            "Country": "Aruba",
+            "Country Code": "aw",
+            "Area in km2": "193",
+            "Population": "71,566"
+        },
+        {
+            "Country": "Åland",
+            "Country Code": "ax",
+            "Area in km2": "1,580.00",
+            "Population": "26,711"
+        },
+        {
+            "Country": "Azerbaijan",
+            "Country Code": "az",
+            "Area in km2": "86,600.00",
+            "Population": "8,303,512"
+        },
+        {
+            "Country": "Bosnia and Herzegovina",
+            "Country Code": "ba",
+            "Area in km2": "51,129.00",
+            "Population": "4,590,000"
+        },
+        {
+            "Country": "Barbados",
+            "Country Code": "bb",
+            "Area in km2": "431",
+            "Population": "285,653"
+        },
+        {
+            "Country": "Bangladesh",
+            "Country Code": "bd",
+            "Area in km2": "144,000.00",
+            "Population": "156,118,464"
+        },
+        {
+            "Country": "Belgium",
+            "Country Code": "be",
+            "Area in km2": "30,510.00",
+            "Population": "10,403,000"
+        },
+        {
+            "Country": "Burkina Faso",
+            "Country Code": "bf",
+            "Area in km2": "274,200.00",
+            "Population": "16,241,811"
+        },
+        {
+            "Country": "Bulgaria",
+            "Country Code": "bg",
+            "Area in km2": "110,910.00",
+            "Population": "7,148,785"
+        },
+        {
+            "Country": "Bahrain",
+            "Country Code": "bh",
+            "Area in km2": "665",
+            "Population": "738,004"
+        },
+        {
+            "Country": "Burundi",
+            "Country Code": "bi",
+            "Area in km2": "27,830.00",
+            "Population": "9,863,117"
+        },
+        {
+            "Country": "Benin",
+            "Country Code": "bj",
+            "Area in km2": "112,620.00",
+            "Population": "9,056,010"
+        },
+        {
+            "Country": "Saint Barthélemy",
+            "Country Code": "bl",
+            "Area in km2": "21",
+            "Population": "8,450"
+        },
+        {
+            "Country": "Bermuda",
+            "Country Code": "bm",
+            "Area in km2": "53",
+            "Population": "65,365"
+        },
+        {
+            "Country": "Brunei",
+            "Country Code": "bn",
+            "Area in km2": "5,770.00",
+            "Population": "395,027"
+        },
+        {
+            "Country": "Bolivia",
+            "Country Code": "bo",
+            "Area in km2": "1,098,580.00",
+            "Population": "9,947,418"
+        },
+        {
+            "Country": "Bonaire",
+            "Country Code": "bq",
+            "Area in km2": "328",
+            "Population": "18,012"
+        },
+        {
+            "Country": "Brazil",
+            "Country Code": "br",
+            "Area in km2": "8,511,965.00",
+            "Population": "201,103,330"
+        },
+        {
+            "Country": "Bahamas",
+            "Country Code": "bs",
+            "Area in km2": "13,940.00",
+            "Population": "301,790"
+        },
+        {
+            "Country": "Bhutan",
+            "Country Code": "bt",
+            "Area in km2": "47,000.00",
+            "Population": "699,847"
+        },
+        {
+            "Country": "Bouvet Island",
+            "Country Code": "bv",
+            "Area in km2": "49",
+            "Population": "0"
+        },
+        {
+            "Country": "Botswana",
+            "Country Code": "bw",
+            "Area in km2": "600,370.00",
+            "Population": "2,029,307"
+        },
+        {
+            "Country": "Belarus",
+            "Country Code": "by",
+            "Area in km2": "207,600.00",
+            "Population": "9,685,000"
+        },
+        {
+            "Country": "Belize",
+            "Country Code": "bz",
+            "Area in km2": "22,966.00",
+            "Population": "314,522"
+        },
+        {
+            "Country": "Canada",
+            "Country Code": "ca",
+            "Area in km2": "9,984,670.00",
+            "Population": "33,679,000"
+        },
+        {
+            "Country": "Cocos [Keeling] Islands",
+            "Country Code": "cc",
+            "Area in km2": "14",
+            "Population": "628"
+        },
+        {
+            "Country": "Democratic Republic of the Congo",
+            "Country Code": "cd",
+            "Area in km2": "2,345,410.00",
+            "Population": "70,916,439"
+        },
+        {
+            "Country": "Central African Republic",
+            "Country Code": "cf",
+            "Area in km2": "622,984.00",
+            "Population": "4,844,927"
+        },
+        {
+            "Country": "Republic of the Congo",
+            "Country Code": "cg",
+            "Area in km2": "342,000.00",
+            "Population": "3,039,126"
+        },
+        {
+            "Country": "Switzerland",
+            "Country Code": "ch",
+            "Area in km2": "41,290.00",
+            "Population": "7,581,000"
+        },
+        {
+            "Country": "Ivory Coast",
+            "Country Code": "ci",
+            "Area in km2": "322,460.00",
+            "Population": "21,058,798"
+        },
+        {
+            "Country": "Cook Islands",
+            "Country Code": "ck",
+            "Area in km2": "240",
+            "Population": "21,388"
+        },
+        {
+            "Country": "Chile",
+            "Country Code": "cl",
+            "Area in km2": "756,950.00",
+            "Population": "16,746,491"
+        },
+        {
+            "Country": "Cameroon",
+            "Country Code": "cm",
+            "Area in km2": "475,440.00",
+            "Population": "19,294,149"
+        },
+        {
+            "Country": "China",
+            "Country Code": "cn",
+            "Area in km2": "9,596,960.00",
+            "Population": "1,330,044,000"
+        },
+        {
+            "Country": "Colombia",
+            "Country Code": "co",
+            "Area in km2": "1,138,910.00",
+            "Population": "47,790,000"
+        },
+        {
+            "Country": "Costa Rica",
+            "Country Code": "cr",
+            "Area in km2": "51,100.00",
+            "Population": "4,516,220"
+        },
+        {
+            "Country": "Cuba",
+            "Country Code": "cu",
+            "Area in km2": "110,860.00",
+            "Population": "11,423,000"
+        },
+        {
+            "Country": "Cape Verde",
+            "Country Code": "cv",
+            "Area in km2": "4,033.00",
+            "Population": "508,659"
+        },
+        {
+            "Country": "Curacao",
+            "Country Code": "cw",
+            "Area in km2": "444",
+            "Population": "141,766"
+        },
+        {
+            "Country": "Christmas Island",
+            "Country Code": "cx",
+            "Area in km2": "135",
+            "Population": "1,500"
+        },
+        {
+            "Country": "Cyprus",
+            "Country Code": "cy",
+            "Area in km2": "9,250.00",
+            "Population": "1,102,677"
+        },
+        {
+            "Country": "Czechia",
+            "Country Code": "cz",
+            "Area in km2": "78,866.00",
+            "Population": "10,476,000"
+        },
+        {
+            "Country": "Germany",
+            "Country Code": "de",
+            "Area in km2": "357,021.00",
+            "Population": "81,802,257"
+        },
+        {
+            "Country": "Djibouti",
+            "Country Code": "dj",
+            "Area in km2": "23,000.00",
+            "Population": "740,528"
+        },
+        {
+            "Country": "Denmark",
+            "Country Code": "dk",
+            "Area in km2": "43,094.00",
+            "Population": "5,484,000"
+        },
+        {
+            "Country": "Dominica",
+            "Country Code": "dm",
+            "Area in km2": "754",
+            "Population": "72,813"
+        },
+        {
+            "Country": "Dominican Republic",
+            "Country Code": "do",
+            "Area in km2": "48,730.00",
+            "Population": "9,823,821"
+        },
+        {
+            "Country": "Algeria",
+            "Country Code": "dz",
+            "Area in km2": "2,381,740.00",
+            "Population": "34,586,184"
+        },
+        {
+            "Country": "Ecuador",
+            "Country Code": "ec",
+            "Area in km2": "283,560.00",
+            "Population": "14,790,608"
+        },
+        {
+            "Country": "Estonia",
+            "Country Code": "ee",
+            "Area in km2": "45,226.00",
+            "Population": "1,291,170"
+        },
+        {
+            "Country": "Egypt",
+            "Country Code": "eg",
+            "Area in km2": "1,001,450.00",
+            "Population": "80,471,869"
+        },
+        {
+            "Country": "Western Sahara",
+            "Country Code": "eh",
+            "Area in km2": "266,000.00",
+            "Population": "273,008"
+        },
+        {
+            "Country": "Eritrea",
+            "Country Code": "er",
+            "Area in km2": "121,320.00",
+            "Population": "5,792,984"
+        },
+        {
+            "Country": "Spain",
+            "Country Code": "es",
+            "Area in km2": "504,782.00",
+            "Population": "46,505,963"
+        },
+        {
+            "Country": "Ethiopia",
+            "Country Code": "et",
+            "Area in km2": "1,127,127.00",
+            "Population": "88,013,491"
+        },
+        {
+            "Country": "Finland",
+            "Country Code": "fi",
+            "Area in km2": "337,030.00",
+            "Population": "5,244,000"
+        },
+        {
+            "Country": "Fiji",
+            "Country Code": "fj",
+            "Area in km2": "18,270.00",
+            "Population": "875,983"
+        },
+        {
+            "Country": "Falkland Islands",
+            "Country Code": "fk",
+            "Area in km2": "12,173.00",
+            "Population": "2,638"
+        },
+        {
+            "Country": "Micronesia",
+            "Country Code": "fm",
+            "Area in km2": "702",
+            "Population": "107,708"
+        },
+        {
+            "Country": "Faroe Islands",
+            "Country Code": "fo",
+            "Area in km2": "1,399.00",
+            "Population": "48,228"
+        },
+        {
+            "Country": "France",
+            "Country Code": "fr",
+            "Area in km2": "547,030.00",
+            "Population": "64,768,389"
+        },
+        {
+            "Country": "Gabon",
+            "Country Code": "ga",
+            "Area in km2": "267,667.00",
+            "Population": "1,545,255"
+        },
+        {
+            "Country": "United Kingdom",
+            "Country Code": "gb",
+            "Area in km2": "244,820.00",
+            "Population": "62,348,447"
+        },
+        {
+            "Country": "Grenada",
+            "Country Code": "gd",
+            "Area in km2": "344",
+            "Population": "107,818"
+        },
+        {
+            "Country": "Georgia",
+            "Country Code": "ge",
+            "Area in km2": "69,700.00",
+            "Population": "4,630,000"
+        },
+        {
+            "Country": "French Guiana",
+            "Country Code": "gf",
+            "Area in km2": "91,000.00",
+            "Population": "195,506"
+        },
+        {
+            "Country": "Guernsey",
+            "Country Code": "gg",
+            "Area in km2": "78",
+            "Population": "65,228"
+        },
+        {
+            "Country": "Ghana",
+            "Country Code": "gh",
+            "Area in km2": "239,460.00",
+            "Population": "24,339,838"
+        },
+        {
+            "Country": "Gibraltar",
+            "Country Code": "gi",
+            "Area in km2": "6.5",
+            "Population": "27,884"
+        },
+        {
+            "Country": "Greenland",
+            "Country Code": "gl",
+            "Area in km2": "2,166,086.00",
+            "Population": "56,375"
+        },
+        {
+            "Country": "Gambia",
+            "Country Code": "gm",
+            "Area in km2": "11,300.00",
+            "Population": "1,593,256"
+        },
+        {
+            "Country": "Guinea",
+            "Country Code": "gn",
+            "Area in km2": "245,857.00",
+            "Population": "10,324,025"
+        },
+        {
+            "Country": "Guadeloupe",
+            "Country Code": "gp",
+            "Area in km2": "1,780.00",
+            "Population": "443,000"
+        },
+        {
+            "Country": "Equatorial Guinea",
+            "Country Code": "gq",
+            "Area in km2": "28,051.00",
+            "Population": "1,014,999"
+        },
+        {
+            "Country": "Greece",
+            "Country Code": "gr",
+            "Area in km2": "131,940.00",
+            "Population": "11,000,000"
+        },
+        {
+            "Country": "South Georgia and the South Sandwich Islands",
+            "Country Code": "gs",
+            "Area in km2": "3,903.00",
+            "Population": "30"
+        },
+        {
+            "Country": "Guatemala",
+            "Country Code": "gt",
+            "Area in km2": "108,890.00",
+            "Population": "13,550,440"
+        },
+        {
+            "Country": "Guam",
+            "Country Code": "gu",
+            "Area in km2": "549",
+            "Population": "159,358"
+        },
+        {
+            "Country": "Guinea-Bissau",
+            "Country Code": "gw",
+            "Area in km2": "36,120.00",
+            "Population": "1,565,126"
+        },
+        {
+            "Country": "Guyana",
+            "Country Code": "gy",
+            "Area in km2": "214,970.00",
+            "Population": "748,486"
+        },
+        {
+            "Country": "Hong Kong",
+            "Country Code": "hk",
+            "Area in km2": "1,092.00",
+            "Population": "6,898,686"
+        },
+        {
+            "Country": "Heard Island and McDonald Islands",
+            "Country Code": "hm",
+            "Area in km2": "412",
+            "Population": "0"
+        },
+        {
+            "Country": "Honduras",
+            "Country Code": "hn",
+            "Area in km2": "112,090.00",
+            "Population": "7,989,415"
+        },
+        {
+            "Country": "Croatia",
+            "Country Code": "hr",
+            "Area in km2": "56,542.00",
+            "Population": "4,284,889"
+        },
+        {
+            "Country": "Haiti",
+            "Country Code": "ht",
+            "Area in km2": "27,750.00",
+            "Population": "9,648,924"
+        },
+        {
+            "Country": "Hungary",
+            "Country Code": "hu",
+            "Area in km2": "93,030.00",
+            "Population": "9,982,000"
+        },
+        {
+            "Country": "Indonesia",
+            "Country Code": "id",
+            "Area in km2": "1,919,440.00",
+            "Population": "242,968,342"
+        },
+        {
+            "Country": "Ireland",
+            "Country Code": "ie",
+            "Area in km2": "70,280.00",
+            "Population": "4,622,917"
+        },
+        {
+            "Country": "Israel",
+            "Country Code": "il",
+            "Area in km2": "20,770.00",
+            "Population": "7,353,985"
+        },
+        {
+            "Country": "Isle of Man",
+            "Country Code": "im",
+            "Area in km2": "572",
+            "Population": "75,049"
+        },
+        {
+            "Country": "India",
+            "Country Code": "in",
+            "Area in km2": "3,287,590.00",
+            "Population": "1,173,108,018"
+        },
+        {
+            "Country": "British Indian Ocean Territory",
+            "Country Code": "io",
+            "Area in km2": "60",
+            "Population": "4,000"
+        },
+        {
+            "Country": "Iraq",
+            "Country Code": "iq",
+            "Area in km2": "437,072.00",
+            "Population": "29,671,605"
+        },
+        {
+            "Country": "Iran",
+            "Country Code": "ir",
+            "Area in km2": "1,648,000.00",
+            "Population": "76,923,300"
+        },
+        {
+            "Country": "Iceland",
+            "Country Code": "is",
+            "Area in km2": "103,000.00",
+            "Population": "308,910"
+        },
+        {
+            "Country": "Italy",
+            "Country Code": "it",
+            "Area in km2": "301,230.00",
+            "Population": "60,340,328"
+        },
+        {
+            "Country": "Jersey",
+            "Country Code": "je",
+            "Area in km2": "116",
+            "Population": "90,812"
+        },
+        {
+            "Country": "Jamaica",
+            "Country Code": "jm",
+            "Area in km2": "10,991.00",
+            "Population": "2,847,232"
+        },
+        {
+            "Country": "Jordan",
+            "Country Code": "jo",
+            "Area in km2": "92,300.00",
+            "Population": "6,407,085"
+        },
+        {
+            "Country": "Japan",
+            "Country Code": "jp",
+            "Area in km2": "377,835.00",
+            "Population": "127,288,000"
+        },
+        {
+            "Country": "Kenya",
+            "Country Code": "ke",
+            "Area in km2": "582,650.00",
+            "Population": "40,046,566"
+        },
+        {
+            "Country": "Kyrgyzstan",
+            "Country Code": "kg",
+            "Area in km2": "198,500.00",
+            "Population": "5,776,500"
+        },
+        {
+            "Country": "Cambodia",
+            "Country Code": "kh",
+            "Area in km2": "181,040.00",
+            "Population": "14,453,680"
+        },
+        {
+            "Country": "Kiribati",
+            "Country Code": "ki",
+            "Area in km2": "811",
+            "Population": "92,533"
+        },
+        {
+            "Country": "Comoros",
+            "Country Code": "km",
+            "Area in km2": "2,170.00",
+            "Population": "773,407"
+        },
+        {
+            "Country": "Saint Kitts and Nevis",
+            "Country Code": "kn",
+            "Area in km2": "261",
+            "Population": "51,134"
+        },
+        {
+            "Country": "North Korea",
+            "Country Code": "kp",
+            "Area in km2": "120,540.00",
+            "Population": "22,912,177"
+        },
+        {
+            "Country": "South Korea",
+            "Country Code": "kr",
+            "Area in km2": "98,480.00",
+            "Population": "48,422,644"
+        },
+        {
+            "Country": "Kuwait",
+            "Country Code": "kw",
+            "Area in km2": "17,820.00",
+            "Population": "2,789,132"
+        },
+        {
+            "Country": "Cayman Islands",
+            "Country Code": "ky",
+            "Area in km2": "262",
+            "Population": "44,270"
+        },
+        {
+            "Country": "Kazakhstan",
+            "Country Code": "kz",
+            "Area in km2": "2,717,300.00",
+            "Population": "15,340,000"
+        },
+        {
+            "Country": "Laos",
+            "Country Code": "la",
+            "Area in km2": "236,800.00",
+            "Population": "6,368,162"
+        },
+        {
+            "Country": "Lebanon",
+            "Country Code": "lb",
+            "Area in km2": "10,400.00",
+            "Population": "4,125,247"
+        },
+        {
+            "Country": "Saint Lucia",
+            "Country Code": "lc",
+            "Area in km2": "616",
+            "Population": "160,922"
+        },
+        {
+            "Country": "Liechtenstein",
+            "Country Code": "li",
+            "Area in km2": "160",
+            "Population": "35,000"
+        },
+        {
+            "Country": "Sri Lanka",
+            "Country Code": "lk",
+            "Area in km2": "65,610.00",
+            "Population": "21,513,990"
+        },
+        {
+            "Country": "Liberia",
+            "Country Code": "lr",
+            "Area in km2": "111,370.00",
+            "Population": "3,685,076"
+        },
+        {
+            "Country": "Lesotho",
+            "Country Code": "ls",
+            "Area in km2": "30,355.00",
+            "Population": "1,919,552"
+        },
+        {
+            "Country": "Lithuania",
+            "Country Code": "lt",
+            "Area in km2": "65,200.00",
+            "Population": "2,944,459"
+        },
+        {
+            "Country": "Luxembourg",
+            "Country Code": "lu",
+            "Area in km2": "2,586.00",
+            "Population": "497,538"
+        },
+        {
+            "Country": "Latvia",
+            "Country Code": "lv",
+            "Area in km2": "64,589.00",
+            "Population": "2,217,969"
+        },
+        {
+            "Country": "Libya",
+            "Country Code": "ly",
+            "Area in km2": "1,759,540.00",
+            "Population": "6,461,454"
+        },
+        {
+            "Country": "Morocco",
+            "Country Code": "ma",
+            "Area in km2": "446,550.00",
+            "Population": "33,848,242"
+        },
+        {
+            "Country": "Monaco",
+            "Country Code": "mc",
+            "Area in km2": "1.9",
+            "Population": "32,965"
+        },
+        {
+            "Country": "Moldova",
+            "Country Code": "md",
+            "Area in km2": "33,843.00",
+            "Population": "4,324,000"
+        },
+        {
+            "Country": "Montenegro",
+            "Country Code": "me",
+            "Area in km2": "14,026.00",
+            "Population": "666,730"
+        },
+        {
+            "Country": "Saint Martin",
+            "Country Code": "mf",
+            "Area in km2": "53",
+            "Population": "35,925"
+        },
+        {
+            "Country": "Madagascar",
+            "Country Code": "mg",
+            "Area in km2": "587,040.00",
+            "Population": "21,281,844"
+        },
+        {
+            "Country": "Marshall Islands",
+            "Country Code": "mh",
+            "Area in km2": "181.3",
+            "Population": "65,859"
+        },
+        {
+            "Country": "Macedonia",
+            "Country Code": "mk",
+            "Area in km2": "25,333.00",
+            "Population": "2,062,294"
+        },
+        {
+            "Country": "Mali",
+            "Country Code": "ml",
+            "Area in km2": "1,240,000.00",
+            "Population": "13,796,354"
+        },
+        {
+            "Country": "Myanmar [Burma]",
+            "Country Code": "mm",
+            "Area in km2": "678,500.00",
+            "Population": "53,414,374"
+        },
+        {
+            "Country": "Mongolia",
+            "Country Code": "mn",
+            "Area in km2": "1,565,000.00",
+            "Population": "3,086,918"
+        },
+        {
+            "Country": "Macao",
+            "Country Code": "mo",
+            "Area in km2": "254",
+            "Population": "449,198"
+        },
+        {
+            "Country": "Northern Mariana Islands",
+            "Country Code": "mp",
+            "Area in km2": "477",
+            "Population": "53,883"
+        },
+        {
+            "Country": "Martinique",
+            "Country Code": "mq",
+            "Area in km2": "1,100.00",
+            "Population": "432,900"
+        },
+        {
+            "Country": "Mauritania",
+            "Country Code": "mr",
+            "Area in km2": "1,030,700.00",
+            "Population": "3,205,060"
+        },
+        {
+            "Country": "Montserrat",
+            "Country Code": "ms",
+            "Area in km2": "102",
+            "Population": "9,341"
+        },
+        {
+            "Country": "Malta",
+            "Country Code": "mt",
+            "Area in km2": "316",
+            "Population": "403,000"
+        },
+        {
+            "Country": "Mauritius",
+            "Country Code": "mu",
+            "Area in km2": "2,040.00",
+            "Population": "1,294,104"
+        },
+        {
+            "Country": "Maldives",
+            "Country Code": "mv",
+            "Area in km2": "300",
+            "Population": "395,650"
+        },
+        {
+            "Country": "Malawi",
+            "Country Code": "mw",
+            "Area in km2": "118,480.00",
+            "Population": "15,447,500"
+        },
+        {
+            "Country": "Mexico",
+            "Country Code": "mx",
+            "Area in km2": "1,972,550.00",
+            "Population": "112,468,855"
+        },
+        {
+            "Country": "Malaysia",
+            "Country Code": "my",
+            "Area in km2": "329,750.00",
+            "Population": "28,274,729"
+        },
+        {
+            "Country": "Mozambique",
+            "Country Code": "mz",
+            "Area in km2": "801,590.00",
+            "Population": "22,061,451"
+        },
+        {
+            "Country": "Namibia",
+            "Country Code": "na",
+            "Area in km2": "825,418.00",
+            "Population": "2,128,471"
+        },
+        {
+            "Country": "New Caledonia",
+            "Country Code": "nc",
+            "Area in km2": "19,060.00",
+            "Population": "216,494"
+        },
+        {
+            "Country": "Niger",
+            "Country Code": "ne",
+            "Area in km2": "1,267,000.00",
+            "Population": "15,878,271"
+        },
+        {
+            "Country": "Norfolk Island",
+            "Country Code": "nf",
+            "Area in km2": "34.6",
+            "Population": "1,828"
+        },
+        {
+            "Country": "Nigeria",
+            "Country Code": "ng",
+            "Area in km2": "923,768.00",
+            "Population": "154,000,000"
+        },
+        {
+            "Country": "Nicaragua",
+            "Country Code": "ni",
+            "Area in km2": "129,494.00",
+            "Population": "5,995,928"
+        },
+        {
+            "Country": "Netherlands",
+            "Country Code": "nl",
+            "Area in km2": "41,526.00",
+            "Population": "16,645,000"
+        },
+        {
+            "Country": "Norway",
+            "Country Code": "no",
+            "Area in km2": "324,220.00",
+            "Population": "5,009,150"
+        },
+        {
+            "Country": "Nepal",
+            "Country Code": "np",
+            "Area in km2": "140,800.00",
+            "Population": "28,951,852"
+        },
+        {
+            "Country": "Nauru",
+            "Country Code": "nr",
+            "Area in km2": "21",
+            "Population": "10,065"
+        },
+        {
+            "Country": "Niue",
+            "Country Code": "nu",
+            "Area in km2": "260",
+            "Population": "2,166"
+        },
+        {
+            "Country": "New Zealand",
+            "Country Code": "nz",
+            "Area in km2": "268,680.00",
+            "Population": "4,252,277"
+        },
+        {
+            "Country": "Oman",
+            "Country Code": "om",
+            "Area in km2": "212,460.00",
+            "Population": "2,967,717"
+        },
+        {
+            "Country": "Panama",
+            "Country Code": "pa",
+            "Area in km2": "78,200.00",
+            "Population": "3,410,676"
+        },
+        {
+            "Country": "Peru",
+            "Country Code": "pe",
+            "Area in km2": "1,285,220.00",
+            "Population": "29,907,003"
+        },
+        {
+            "Country": "French Polynesia",
+            "Country Code": "pf",
+            "Area in km2": "4,167.00",
+            "Population": "270,485"
+        },
+        {
+            "Country": "Papua New Guinea",
+            "Country Code": "pg",
+            "Area in km2": "462,840.00",
+            "Population": "6,064,515"
+        },
+        {
+            "Country": "Philippines",
+            "Country Code": "ph",
+            "Area in km2": "300,000.00",
+            "Population": "99,900,177"
+        },
+        {
+            "Country": "Pakistan",
+            "Country Code": "pk",
+            "Area in km2": "803,940.00",
+            "Population": "184,404,791"
+        },
+        {
+            "Country": "Poland",
+            "Country Code": "pl",
+            "Area in km2": "312,685.00",
+            "Population": "38,500,000"
+        },
+        {
+            "Country": "Saint Pierre and Miquelon",
+            "Country Code": "pm",
+            "Area in km2": "242",
+            "Population": "7,012"
+        },
+        {
+            "Country": "Pitcairn Islands",
+            "Country Code": "pn",
+            "Area in km2": "47",
+            "Population": "46"
+        },
+        {
+            "Country": "Puerto Rico",
+            "Country Code": "pr",
+            "Area in km2": "9,104.00",
+            "Population": "3,916,632"
+        },
+        {
+            "Country": "Palestine",
+            "Country Code": "ps",
+            "Area in km2": "5,970.00",
+            "Population": "3,800,000"
+        },
+        {
+            "Country": "Portugal",
+            "Country Code": "pt",
+            "Area in km2": "92,391.00",
+            "Population": "10,676,000"
+        },
+        {
+            "Country": "Palau",
+            "Country Code": "pw",
+            "Area in km2": "458",
+            "Population": "19,907"
+        },
+        {
+            "Country": "Paraguay",
+            "Country Code": "py",
+            "Area in km2": "406,750.00",
+            "Population": "6,375,830"
+        },
+        {
+            "Country": "Qatar",
+            "Country Code": "qa",
+            "Area in km2": "11,437.00",
+            "Population": "840,926"
+        },
+        {
+            "Country": "Réunion",
+            "Country Code": "re",
+            "Area in km2": "2,517.00",
+            "Population": "776,948"
+        },
+        {
+            "Country": "Romania",
+            "Country Code": "ro",
+            "Area in km2": "237,500.00",
+            "Population": "21,959,278"
+        },
+        {
+            "Country": "Serbia",
+            "Country Code": "rs",
+            "Area in km2": "88,361.00",
+            "Population": "7,344,847"
+        },
+        {
+            "Country": "Russia",
+            "Country Code": "ru",
+            "Area in km2": "17,100,000.00",
+            "Population": "140,702,000"
+        },
+        {
+            "Country": "Rwanda",
+            "Country Code": "rw",
+            "Area in km2": "26,338.00",
+            "Population": "11,055,976"
+        },
+        {
+            "Country": "Saudi Arabia",
+            "Country Code": "sa",
+            "Area in km2": "1,960,582.00",
+            "Population": "25,731,776"
+        },
+        {
+            "Country": "Solomon Islands",
+            "Country Code": "sb",
+            "Area in km2": "28,450.00",
+            "Population": "559,198"
+        },
+        {
+            "Country": "Seychelles",
+            "Country Code": "sc",
+            "Area in km2": "455",
+            "Population": "88,340"
+        },
+        {
+            "Country": "Sudan",
+            "Country Code": "sd",
+            "Area in km2": "1,861,484.00",
+            "Population": "35,000,000"
+        },
+        {
+            "Country": "Sweden",
+            "Country Code": "se",
+            "Area in km2": "449,964.00",
+            "Population": "9,828,655"
+        },
+        {
+            "Country": "Singapore",
+            "Country Code": "sg",
+            "Area in km2": "692.7",
+            "Population": "4,701,069"
+        },
+        {
+            "Country": "Saint Helena",
+            "Country Code": "sh",
+            "Area in km2": "410",
+            "Population": "7,460"
+        },
+        {
+            "Country": "Slovenia",
+            "Country Code": "si",
+            "Area in km2": "20,273.00",
+            "Population": "2,007,000"
+        },
+        {
+            "Country": "Svalbard and Jan Mayen",
+            "Country Code": "sj",
+            "Area in km2": "62,049.00",
+            "Population": "2,550"
+        },
+        {
+            "Country": "Slovakia",
+            "Country Code": "sk",
+            "Area in km2": "48,845.00",
+            "Population": "5,455,000"
+        },
+        {
+            "Country": "Sierra Leone",
+            "Country Code": "sl",
+            "Area in km2": "71,740.00",
+            "Population": "5,245,695"
+        },
+        {
+            "Country": "San Marino",
+            "Country Code": "sm",
+            "Area in km2": "61.2",
+            "Population": "31,477"
+        },
+        {
+            "Country": "Senegal",
+            "Country Code": "sn",
+            "Area in km2": "196,190.00",
+            "Population": "12,323,252"
+        },
+        {
+            "Country": "Somalia",
+            "Country Code": "so",
+            "Area in km2": "637,657.00",
+            "Population": "10,112,453"
+        },
+        {
+            "Country": "Suriname",
+            "Country Code": "sr",
+            "Area in km2": "163,270.00",
+            "Population": "492,829"
+        },
+        {
+            "Country": "South Sudan",
+            "Country Code": "ss",
+            "Area in km2": "644,329.00",
+            "Population": "8,260,490"
+        },
+        {
+            "Country": "São Tomé and Príncipe",
+            "Country Code": "st",
+            "Area in km2": "1,001.00",
+            "Population": "175,808"
+        },
+        {
+            "Country": "El Salvador",
+            "Country Code": "sv",
+            "Area in km2": "21,040.00",
+            "Population": "6,052,064"
+        },
+        {
+            "Country": "Sint Maarten",
+            "Country Code": "sx",
+            "Area in km2": "21",
+            "Population": "37,429"
+        },
+        {
+            "Country": "Syria",
+            "Country Code": "sy",
+            "Area in km2": "185,180.00",
+            "Population": "22,198,110"
+        },
+        {
+            "Country": "Swaziland",
+            "Country Code": "sz",
+            "Area in km2": "17,363.00",
+            "Population": "1,354,051"
+        },
+        {
+            "Country": "Turks and Caicos Islands",
+            "Country Code": "tc",
+            "Area in km2": "430",
+            "Population": "20,556"
+        },
+        {
+            "Country": "Chad",
+            "Country Code": "td",
+            "Area in km2": "1,284,000.00",
+            "Population": "10,543,464"
+        },
+        {
+            "Country": "French Southern Territories",
+            "Country Code": "tf",
+            "Area in km2": "7,829.00",
+            "Population": "140"
+        },
+        {
+            "Country": "Togo",
+            "Country Code": "tg",
+            "Area in km2": "56,785.00",
+            "Population": "6,587,239"
+        },
+        {
+            "Country": "Thailand",
+            "Country Code": "th",
+            "Area in km2": "514,000.00",
+            "Population": "67,089,500"
+        },
+        {
+            "Country": "Tajikistan",
+            "Country Code": "tj",
+            "Area in km2": "143,100.00",
+            "Population": "7,487,489"
+        },
+        {
+            "Country": "Tokelau",
+            "Country Code": "tk",
+            "Area in km2": "10",
+            "Population": "1,466"
+        },
+        {
+            "Country": "East Timor",
+            "Country Code": "tl",
+            "Area in km2": "15,007.00",
+            "Population": "1,154,625"
+        },
+        {
+            "Country": "Turkmenistan",
+            "Country Code": "tm",
+            "Area in km2": "488,100.00",
+            "Population": "4,940,916"
+        },
+        {
+            "Country": "Tunisia",
+            "Country Code": "tn",
+            "Area in km2": "163,610.00",
+            "Population": "10,589,025"
+        },
+        {
+            "Country": "Tonga",
+            "Country Code": "to",
+            "Area in km2": "748",
+            "Population": "122,580"
+        },
+        {
+            "Country": "Turkey",
+            "Country Code": "tr",
+            "Area in km2": "780,580.00",
+            "Population": "77,804,122"
+        },
+        {
+            "Country": "Trinidad and Tobago",
+            "Country Code": "tt",
+            "Area in km2": "5,128.00",
+            "Population": "1,328,019"
+        },
+        {
+            "Country": "Tuvalu",
+            "Country Code": "tv",
+            "Area in km2": "26",
+            "Population": "10,472"
+        },
+        {
+            "Country": "Taiwan",
+            "Country Code": "tw",
+            "Area in km2": "35,980.00",
+            "Population": "22,894,384"
+        },
+        {
+            "Country": "Tanzania",
+            "Country Code": "tz",
+            "Area in km2": "945,087.00",
+            "Population": "41,892,895"
+        },
+        {
+            "Country": "Ukraine",
+            "Country Code": "ua",
+            "Area in km2": "603,700.00",
+            "Population": "45,415,596"
+        },
+        {
+            "Country": "Uganda",
+            "Country Code": "ug",
+            "Area in km2": "236,040.00",
+            "Population": "33,398,682"
+        },
+        {
+            "Country": "U.S. Minor Outlying Islands",
+            "Country Code": "um",
+            "Area in km2": "0",
+            "Population": "0"
+        },
+        {
+            "Country": "United States",
+            "Country Code": "us",
+            "Area in km2": "9,629,091.00",
+            "Population": "310,232,863"
+        },
+        {
+            "Country": "Uruguay",
+            "Country Code": "uy",
+            "Area in km2": "176,220.00",
+            "Population": "3,477,000"
+        },
+        {
+            "Country": "Uzbekistan",
+            "Country Code": "uz",
+            "Area in km2": "447,400.00",
+            "Population": "27,865,738"
+        },
+        {
+            "Country": "Vatican City",
+            "Country Code": "va",
+            "Area in km2": "0.4",
+            "Population": "921"
+        },
+        {
+            "Country": "Saint Vincent and the Grenadines",
+            "Country Code": "vc",
+            "Area in km2": "389",
+            "Population": "104,217"
+        },
+        {
+            "Country": "Venezuela",
+            "Country Code": "ve",
+            "Area in km2": "912,050.00",
+            "Population": "27,223,228"
+        },
+        {
+            "Country": "British Virgin Islands",
+            "Country Code": "vg",
+            "Area in km2": "153",
+            "Population": "21,730"
+        },
+        {
+            "Country": "U.S. Virgin Islands",
+            "Country Code": "vi",
+            "Area in km2": "352",
+            "Population": "108,708"
+        },
+        {
+            "Country": "Vietnam",
+            "Country Code": "vn",
+            "Area in km2": "329,560.00",
+            "Population": "89,571,130"
+        },
+        {
+            "Country": "Vanuatu",
+            "Country Code": "vu",
+            "Area in km2": "12,200.00",
+            "Population": "221,552"
+        },
+        {
+            "Country": "Wallis and Futuna",
+            "Country Code": "wf",
+            "Area in km2": "274",
+            "Population": "16,025"
+        },
+        {
+            "Country": "Samoa",
+            "Country Code": "ws",
+            "Area in km2": "2,944.00",
+            "Population": "192,001"
+        },
+        {
+            "Country": "Kosovo",
+            "Country Code": "xk",
+            "Area in km2": "10,908.00",
+            "Population": "1,800,000"
+        },
+        {
+            "Country": "Yemen",
+            "Country Code": "ye",
+            "Area in km2": "527,970.00",
+            "Population": "23,495,361"
+        },
+        {
+            "Country": "Mayotte",
+            "Country Code": "yt",
+            "Area in km2": "374",
+            "Population": "159,042"
+        },
+        {
+            "Country": "South Africa",
+            "Country Code": "za",
+            "Area in km2": "1,219,912.00",
+            "Population": "49,000,000"
+        },
+        {
+            "Country": "Zambia",
+            "Country Code": "zm",
+            "Area in km2": "752,614.00",
+            "Population": "13,460,305"
+        },
+        {
+            "Country": "Zimbabwe",
+            "Country Code": "zw",
+            "Area in km2": "390,580.00",
+            "Population": "13,061,000"
+        }   
+]
