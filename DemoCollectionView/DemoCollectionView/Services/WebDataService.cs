@@ -17,7 +17,7 @@ namespace DemoCollectionView.Services
 
   public async Task<IEnumerable<Countries>> GetCountriesAsync()
       {
-          var json = await Client.GetStringAsync("https://raw.githubusercontent.com/BryanOroxon/CollectionViewChallenge/master/CollectionViewChallenge/CollectionViewChallenge/Data/moviedata.json");
+          var json = await Client.GetStringAsync("https://raw.githubusercontent.com/BryanOroxon/DemoCollectionView/master/DemoCollectionView/DemoCollectionView/Data/countrydata.json");
           var all = Countries.FromJson(json);
           return all;
       }

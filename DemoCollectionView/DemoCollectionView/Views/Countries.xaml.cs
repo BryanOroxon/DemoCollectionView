@@ -21,7 +21,7 @@ namespace DemoCollectionView.Views
             if (viewModel.Countries.Count == 0)
             {
                 viewModel.GetCountriesCommand.Execute(null);
-                countryViewSource.ItemsSource = viewModel.Countries;
+                CollectionViewSource.ItemsSource = viewModel.Countries;
             }
         }
     }

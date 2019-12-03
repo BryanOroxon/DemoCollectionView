@@ -1,31 +1,53 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
-             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-             mc:Ignorable="d"
-             x:Class="DemoCollectionView.Views.Countries"
-             xmlns:viewmodel="clr-namespace:DemoCollectionView.ViewModels"
-             xmlns:local="clr-namespace:DemoCollectionView"
-             Title="{Binding Title}">
+<ContentPage
+    x:Class="DemoCollectionView.Views.Countries"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local1="clr-namespace:DemoCollectionView.Converters"
+    Title="{Binding Title}"
+    mc:Ignorable="d">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <local1:ImagePathConverter x:Key="PathConverter" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
     <ContentPage.Content>
-        <StackLayout Orientation="Vertical" VerticalOptions="FillAndExpand">
-            <ScrollView x:Name="scroll" Orientation="Vertical" VerticalOptions="FillAndExpand">
-                <CollectionView x:Name="countryViewSource">
-                    <CollectionView.ItemTemplate>
-                        <DataTemplate>
+        <StackLayout Orientation="Vertical">
+            <CollectionView x:Name="CollectionViewSource">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Frame
+                            BackgroundColor="LightGray"
+                            CornerRadius="10">
                             <StackLayout>
-                                <Label Text="{Binding Country}" FontAttributes="Bold" FontSize="20" />
-                                <Label Text="{Binding CountryCode}" FontAttributes="Bold" FontSize="20" />
-                                <Label Text="{Binding Areainkm2}" FontAttributes="Bold" FontSize="20" />
-                                <Label Text="{Binding Population}" FontAttributes="Bold" FontSize="20" />
+                                <Image Source="{Binding CountryCode, Converter={StaticResource PathConverter}, ConverterParameter=.png}" />
+                                <StackLayout Orientation="Horizontal">
+                                    <Label
+                                        Text="Country :"
+                                        FontAttributes="Bold"
+                                        FontSize="20" />
+                                    <Label
+                                        Text="{Binding Country}"
+                                        FontAttributes="Bold"
+                                        FontSize="20" />
+                                </StackLayout>
+                                <StackLayout Orientation="Horizontal">
+                                    <Label
+                                        Text="Population :"
+                                        FontAttributes="Bold"
+                                        FontSize="20" />
+                                    <Label
+                                        Text="{Binding Population}"
+                                        FontAttributes="Bold"
+                                        FontSize="20" />
+                                </StackLayout>
                             </StackLayout>
-
-                        </DataTemplate>
-                    </CollectionView.ItemTemplate>
-                </CollectionView>
-
-            </ScrollView>
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

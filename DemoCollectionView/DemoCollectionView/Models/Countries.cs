@@ -11,7 +11,7 @@ namespace DemoCollectionView.Models
         [JsonProperty("Country")]
         public string Country { get; set; }
         [JsonProperty("CountryCode")]
-        public string CountryCode { get; set; }
+        public string CountryCode { get ; set; }
         [JsonProperty("Areainkm2")]
         public string Areainkm2 { get; set; }
         [JsonProperty("Population")]
